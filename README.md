@@ -1,7 +1,7 @@
 # 4T-S-M
 四梯传感器模块系列数据包
 
-<img width="735" height="720" alt="image" src="https://github.com/user-attachments/assets/8cef82e1-c940-43a3-98b3-099669029160" />
+<img src="%5B4%5D图片/4T_M_S.png" alt="4T_M_S.png" width="100%">
 
 ## 文件结构
 |型号|名称|传感器类型|功能|接口定义|
@@ -44,3 +44,5 @@
   - 交流社区：https://www.4t.wiki/community
   - 学习资源：https://www.4t.wiki/curriculum
 - Bilibili平台：参赛选手经验分享、试题解析，B站搜索“四梯科技”
+
+<img src="%5B4%5D图片/4T_B站.png" alt="4T_B站.png" width="26%"> <img src="%5B4%5D图片/4T_公众号.png" alt="4T_公众号.png" width="25%">
