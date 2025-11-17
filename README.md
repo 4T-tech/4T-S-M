@@ -46,3 +46,4 @@
 - Bilibili平台：参赛选手经验分享、试题解析，B站搜索“四梯科技”
 
 <img src="%5B4%5D图片/4T_B站.png" alt="4T_B站.png" width="26%"> <img src="%5B4%5D图片/4T_公众号.png" alt="4T_公众号.png" width="25%">
+    B站扫码-四梯科技                                                  微信扫码-四梯
