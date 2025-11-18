@@ -38,7 +38,6 @@
 
 ## 学习资源获取
 
-- QQ交流群：824313199
 - 微信公众号：微信搜索“四梯”
 - 四梯评测网获取更多竞赛资讯：https://4t.wiki/
   - 交流社区：https://www.4t.wiki/community
@@ -46,3 +45,4 @@
 - Bilibili平台：参赛选手经验分享、试题解析，B站搜索“四梯科技”
 
 <img src="%5B4%5D图片/4T_B站.png" alt="4T_B站.png" width="26%"> <img src="%5B4%5D图片/4T_公众号.png" alt="4T_公众号.png" width="25%">
+
